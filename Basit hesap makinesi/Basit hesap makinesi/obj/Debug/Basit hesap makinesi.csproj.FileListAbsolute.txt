@@ -1,0 +1,8 @@
+C:\Users\kemal\OneDrive\Masaüstü\Basit hesap makinesi\Basit hesap makinesi\bin\Debug\Basit hesap makinesi.exe.config
+C:\Users\kemal\OneDrive\Masaüstü\Basit hesap makinesi\Basit hesap makinesi\bin\Debug\Basit hesap makinesi.exe
+C:\Users\kemal\OneDrive\Masaüstü\Basit hesap makinesi\Basit hesap makinesi\bin\Debug\Basit hesap makinesi.pdb
+C:\Users\kemal\OneDrive\Masaüstü\Basit hesap makinesi\Basit hesap makinesi\obj\Debug\Basit hesap makinesi.csproj.AssemblyReference.cache
+C:\Users\kemal\OneDrive\Masaüstü\Basit hesap makinesi\Basit hesap makinesi\obj\Debug\Basit hesap makinesi.csproj.SuggestedBindingRedirects.cache
+C:\Users\kemal\OneDrive\Masaüstü\Basit hesap makinesi\Basit hesap makinesi\obj\Debug\Basit hesap makinesi.csproj.CoreCompileInputs.cache
+C:\Users\kemal\OneDrive\Masaüstü\Basit hesap makinesi\Basit hesap makinesi\obj\Debug\Basit hesap makinesi.exe
+C:\Users\kemal\OneDrive\Masaüstü\Basit hesap makinesi\Basit hesap makinesi\obj\Debug\Basit hesap makinesi.pdb
